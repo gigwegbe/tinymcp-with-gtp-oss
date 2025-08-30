@@ -7,4 +7,5 @@ The repository the codebase for expe
 - [Is GPT-OSS Good? A Comprehensive Evaluation of
 OpenAI’s Latest Open Source Models](https://arxiv.org/pdf/2508.12461)
 - [gpt-oss is great for tool calling](https://www.reddit.com/r/LocalLLaMA/comments/1mj6pi9/gptoss_is_great_for_tool_calling/)
+- [gpt-oss-20b specification](https://platform.openai.com/docs/models/gpt-oss-20b)
 - [Models Comparison gpt-oss-20b vs gpt-5 vs gpt-4.1](https://platform.openai.com/docs/models/compare?model=gpt-oss-20b)
